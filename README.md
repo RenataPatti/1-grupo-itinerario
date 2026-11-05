@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://renatapatti.github.io/1-grupo-itinerario/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1jqei0W8UB6pzI6ROytXoMe_jAnTDJnY8zshKdTbrBXc/edit?gid=0#gid=0
 
 ## Create your own
